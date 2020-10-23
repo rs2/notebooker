@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "description": "Notebooker - Turn notebooks into reports",
   "dependencies": {
-    "bootstrap-table": "1.15.3",
+    "bootstrap-table": "1.18.0",
     "datatables": "1.10.18",
     "eslint": "^6.8.0",
     "fomantic-ui": "2.8.4",
